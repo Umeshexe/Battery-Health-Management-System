@@ -1,4 +1,4 @@
-# Deep Learning Approach for Long Horizon Health Prognosis of Li-ion Battery
+# Intyerpreatble Deep Learning Approach for Long Horizon Health Prognosis of Li-ion Battery
 
 
 ![image](https://github.com/Umeshexe/Battery-/assets/98090092/012a2c09-ded2-4971-96fa-4a521731f340)
